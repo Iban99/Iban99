@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iban99
+- 👋 Hi, I’m Miriam Iban
 - 👀 I’m interested in Data Science and Big Data.
 - 🌱 I’m currently learning SQL for database administration and consulting, Power BI and Python.
 - 💞️ I’m looking to collaborate on some projects about data.
